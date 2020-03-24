@@ -7,8 +7,8 @@ helpviewer_keywords:
 - what's new [Visual Studio], architecture and modeling
 - architecture [Visual Studio], modeling
 - modeling software [Visual Studio], What's New
-author: JoshuaPartlow
-ms.author: joshuapa
+author:antonydowney 
+ms.author: antonydowney 
 manager: jillfra
 ms.workload:
 - multiple
@@ -69,3 +69,4 @@ Visual Studio is available in several editions. Not all of these provide support
 |**Dependency diagrams**|Yes|Only supports reading dependency diagrams.|Only supports reading dependency diagrams.|
 |**Directed graphs** (DGML diagrams)|Yes|Yes|Yes|
 |**Code clone**|Yes|-|-|
+
